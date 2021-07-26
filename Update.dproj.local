@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/02/20 13:58:38.000.183,=C:\Users\andre\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/10/07 10:44:30.000.386,=C:\Users\andre\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/02/04 10:28:58.000.924,=C:\Users\andre\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/02/01 11:57:46.000.465,=C:\Users\andre\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/05/01 15:25:25.000.764,=C:\Users\andre\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/05/15 19:33:11.000.491,=C:\Users\andre\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/05/15 19:33:29.000.761,C:\Users\andre\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\andre\Desktop\AutoUpdate\Unit1.pas</Transaction>
+    <Transaction>2021/05/15 19:33:29.000.761,C:\Users\andre\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\andre\Desktop\AutoUpdate\Unit1.dfm</Transaction>
+    <Transaction>2021/05/15 19:33:36.000.623,C:\Users\andre\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\andre\Desktop\AutoUpdate\Update.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
